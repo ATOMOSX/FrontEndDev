@@ -3,6 +3,14 @@ h1{
 }
 
 p{
-    color: brown;
-    /*background-color: crimson ;*/
+    color: white;
+    background-color: crimson ;
+    padding: 15px;
+    border: 10px solid powderblue;
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10;*/
+    margin: auto 50px;
+    text-align: center;
 }
