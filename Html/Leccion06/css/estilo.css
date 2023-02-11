@@ -1,12 +1,14 @@
 h1{
-    color:blue
+    color:#d90368;
+    text-align: center;
+    
 }
 
 p{
-    color: white;
-    background-color: crimson ;
+    color: #250902;
+    background-color: #eadeda ;
     padding: 15px;
-    border: 10px solid powderblue;
+    border: 10px solid #2e294e;
     /*margin-top: 40px;
     margin-right: 10px;
     margin-bottom: 20px;
